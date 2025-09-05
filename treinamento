@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treinamento de Phishing</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f7f9;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background-color: #fff;
+            padding: 40px 50px;
+            box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+            border-radius: 10px;
+        }
+
+        .logo {
+            display: block;
+            margin: 0 auto 30px auto;
+            max-width: 200px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+        }
+
+        p {
+            line-height: 1.7;
+        }
+
+        ul {
+            margin-left: 20px;
+            line-height: 1.6;
+        }
+
+        .fun-image {
+            display: block;
+            margin: 30px auto;
+            max-width: 100%;
+            border-radius: 10px;
+        }
+
+        .fun-text {
+            text-align: center;
+            font-size: 20px;
+            color: #e74c3c;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+
+        .button-container {
+            text-align: center;
+            margin-top: 40px;
+        }
+
+        .video-button {
+            background-color: #0078d4;
+            color: white;
+            padding: 15px 35px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 6px;
+            transition: background-color 0.3s;
+        }
+
+        .video-button:hover {
+            background-color: #005a9e;
+        }
+
+        .tip {
+            background-color: #f1f8ff;
+            border-left: 6px solid #0078d4;
+            padding: 10px 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        .highlight {
+            color: #e67e22;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Logo da empresa -->
+        <img src="https://www.modulo.com.br/plugins/br.com.fabricadigital.plus.base/static/plus_hidra_looper_instanet_modulo/img/logo.6eee9f6917d3.png" alt="Logo" class="logo">
+
+        <h1>Treinamento de Phishing</h1>
+
+        <!-- Imagem divertida -->
+        <img src="https://www.influx.com.br/storage/app/media/uploaded-files/hubfs/1415475/blog-files/levar-um-susto-img2.jpg" alt="Não acredito, você aqui?" class="fun-image">
+        <div class="fun-text">Não acredito, você aqui? Você precisa de mais atenção em segurança digital!</div>
+
+        <h2>O que é phishing?</h2>
+        <p>Phishing é quando criminosos tentam enganar você para roubar informações importantes, como senhas, dados bancários ou informações pessoais. Eles se passam por fontes confiáveis e tentam fazer você clicar em links ou baixar arquivos suspeitos.</p>
+
+        <h2>Como identificar mensagens de phishing</h2>
+        <ul>
+            <li>Mensagens alarmistas: <span class="highlight">“Sua conta será bloqueada!”</span> ou <span class="highlight">“Clique agora ou perde tudo!”</span></li>
+            <li>Erros gramaticais ou ortográficos que você nunca esperaria.</li>
+            <li>Links suspeitos: passe o mouse e confira se o endereço realmente é do remetente.</li>
+            <li>Solicitações inesperadas de dados pessoais ou senhas.</li>
+            <li>Anexos estranhos ou desconhecidos.</li>
+        </ul>
+
+        <div class="tip">
+            💡 <strong>Dica leve:</strong> Se parecer suspeito, respire fundo e confirme antes de clicar. Melhor prevenir do que remediar!
+        </div>
+
+        <h2>Dicas de segurança</h2>
+        <ul>
+            <li>Verifique sempre o remetente antes de clicar em links.</li>
+            <li>Não forneça informações pessoais por e-mail.</li>
+            <li>Use autenticação de dois fatores sempre que possível.</li>
+            <li>Quando tiver dúvida, confirme com o remetente por outro canal.</li>
+            <li>Lembre-se: até a T.I pode tentar te pescar para te testar! 😄</li>
+        </ul>
+
+        <div class="button-container">
+            <a href="https://modulosecurity-my.sharepoint.com/:v:/g/personal/pedro_costa_modulo_com/EcBG0e9kWSBMke_l6i3NdCoB2Kmml_1_xPxc8VHXd8UmyQ?e=CnjQ7M" class="video-button" target="_blank">Assista ao Vídeo</a>
+        </div>
+    </div>
+</body>
+</html>
